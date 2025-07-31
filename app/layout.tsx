@@ -8,11 +8,11 @@ const inter = Inter({ subsets: ["latin"], display: "swap" })
 export const metadata: Metadata = {
   metadataBase: new URL("https://abhishekboad.vercel.app"),
   title: {
-    default: "Abhishek Boad - Official Website | Developer & Tech Enthusiast",
+    default: "Abhishek Boad - Official Website",
     template: "%s | Abhishek Boad",
   },
   description:
-    "Official website of Abhishek Boad - Developer, Creator, and Tech Enthusiast. Connect with Abhishek across all social media platforms. Learn. Build. Share. Grow. 🎯",
+    "Official website of Abhishek Boad . Connect with Abhishek across all social media platforms. Learn. Build. Share. Grow. 🎯",
   keywords: [
     "Abhishek Boad",
     "abhishekboad",
