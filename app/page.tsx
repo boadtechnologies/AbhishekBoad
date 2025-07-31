@@ -348,12 +348,6 @@ export default function Home() {
                 </p>
                 <Sparkles className="w-5 h-5 sm:w-6 sm:h-6 text-yellow-500 animate-pulse" />
               </div>
-
-              <p className="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto animate-fade-in-up animation-delay-500">
-                Developer, Creator & Tech Enthusiast passionate about building
-                amazing digital experiences and sharing knowledge with the
-                community.
-              </p>
             </div>
           </header>
 
